@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not the first time a billionaire did it](http://9gag.com/gag/a0Z1jRZ)
- - 🚯 [Some people will say it&#39;s fake](http://9gag.com/gag/a912701)
- - 👉 [Mail thief](http://9gag.com/gag/aYrqe62)<!-- MEMES:END -->
+ - 🚖 [Mail thief](http://9gag.com/gag/aYrqe62)
+ - 🚯 [No words](http://9gag.com/gag/ajgZX0G)
+ - 👉 [Hang on little guy, infrastructure funding is coming to Chicago](http://9gag.com/gag/a212d5d)<!-- MEMES:END -->
