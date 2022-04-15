@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
-<!-- TECH:END -->
+ - [Google’s Little Signals concepts show what ‘ambient’ notifications could look like](https://www.theverge.com/2022/4/15/23026074/google-little-signals-concept-diy-build-ambient-notifications)
+ - [An interview with Senator Cynthia Lummis on advocating for the crypto industry, educating members of Congress, buying $100K+ in bitcoin and holding, and more &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220415/p12#a220415p12)
+ - [Bandai Namco’s Gundam ‘metaverse’ dream mixes esports, Web3, and Gunpla](https://www.theverge.com/2022/4/15/23026813/bandai-namco-gundam-metaverse)<!-- TECH:END -->
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
