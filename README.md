@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every new movie you can watch at home this weekend](https://www.polygon.com/23020339/new-movies-watch-netflix-choose-or-die-x-horror-movie)
- - [It’s officially the season of joyful anime](https://www.polygon.com/2022/4/15/23027138/spy-x-family-crunchyroll-anime-spring-2022-patch-notes)
- - [Star Fox actor comes out of retirement for a Half-Life 2 mod that replaces Alyx with a sexy blue fox](https://www.pcgamer.com/star-fox-actor-comes-out-of-retirement-for-a-half-life-2-mod-that-replaces-alyx-with-a-sexy-blue-fox)<!-- GAME:END -->
+ - [Apple and Second Life slam Meta over fees for metaverse creators](https://www.pcgamer.com/meta-horizon-worlds-fee-creators)
+ - [The caustic sci-fi movie Dual sets up the smallest, strangest clone war](https://www.polygon.com/23027455/dual-review-riley-stearns-karen-gillan)
+ - [Report: Future Xbox Games Might Have Ads, Tech&#39;s Being Developed](https://kotaku.com/xbox-live-microsoft-ads-in-game-brands-tech-advertise-1848800696)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
