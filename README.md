@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jackson Hewitt Review 2022: Flat-Fee Online Tax Software for All     - CNET](https://www.cnet.com/personal-finance/taxes/jackson-hewitt-review-2022-flat-fee-online-tax-software-for-all/#ftag=CAD590a51e)
- - [Lost Wildflower Named &#39;Extinctus&#39; Rediscovered, Still Endangered     - CNET](https://www.cnet.com/science/biology/lost-wildflower-named-extinctus-rediscovered-still-endangered/#ftag=CAD590a51e)
- - [Best Smart Home Deals: Save $50 on Echo Show 8 and Nest Thermostat, $14 on Lifx Bulbs and More     - CNET](https://www.cnet.com/home/smart-home/best-smart-home-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Go read this deep dive into the changes coming to Android 13](https://www.theverge.com/2022/4/15/23027396/android-13-developer-preview-deep-dive-changes-go-read-this)
+ - [Samsung’s Galaxy Chromebook 2 360 offers a high-resolution screen for under $500](https://www.theverge.com/2022/4/15/23027218/samsung-galaxy-chromebook-2-360-chrome-os)
+ - [TaxAct Review 2022: Discount Online Tax Software and Deduction Maximizer     - CNET](https://www.cnet.com/personal-finance/taxes/taxact-review-2022-discount-online-tax-software-and-deduction-maximizer/#ftag=CAD590a51e)<!-- TECH:END -->
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
