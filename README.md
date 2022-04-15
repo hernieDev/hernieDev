@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poor mosquito](http://9gag.com/gag/aQXZ8v2)
- - 🚯 [Unlike the wet wipes now...](http://9gag.com/gag/angEy4B)
- - 👉 [Hang on little guy, infrastructure funding is coming to Chicago](http://9gag.com/gag/a212d5d)<!-- MEMES:END -->
+ - 🚖 [YA ITS ME ONLY ME!](http://9gag.com/gag/ay9RL3W)
+ - 🚯 [Hang on little guy, infrastructure funding is coming to Chicago](http://9gag.com/gag/a212d5d)
+ - 👉 [Not the first time a billionaire did it](http://9gag.com/gag/a0Z1jRZ)<!-- MEMES:END -->
