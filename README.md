@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Choose or Die somehow finds the dreary downside to a murderous video game](https://www.polygon.com/23027310/choose-or-die-review-netflix)
- - [I&#39;m ready for the Final Fantasy 9 Remake announcement, Square](https://www.pcgamer.com/im-ready-for-the-final-fantasy-9-remake-announcement-square)
- - [No More Heroes 3 coming to PC, PlayStation, and Xbox this fall](https://www.polygon.com/23027274/no-more-heroes-3-port-pc-playstation-xbox-fall-2022)<!-- GAME:END -->
+ - [Every new movie you can watch at home this weekend](https://www.polygon.com/23020339/new-movies-watch-netflix-choose-or-die-x-horror-movie)
+ - [It’s officially the season of joyful anime](https://www.polygon.com/2022/4/15/23027138/spy-x-family-crunchyroll-anime-spring-2022-patch-notes)
+ - [Star Fox actor comes out of retirement for a Half-Life 2 mod that replaces Alyx with a sexy blue fox](https://www.pcgamer.com/star-fox-actor-comes-out-of-retirement-for-a-half-life-2-mod-that-replaces-alyx-with-a-sexy-blue-fox)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
