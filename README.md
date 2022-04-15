@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel Watch puzzle pieces are falling into place](https://www.theverge.com/2022/4/15/23026915/pixel-watch-wear-os-wearables-smartwatch)
- - [Best Internet Providers in Brooklyn     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-brooklyn/#ftag=CAD590a51e)
- - [The Witcher 3’s next-gen update isn’t in ‘development hell,’ according to CD Projekt Red](https://www.theverge.com/2022/4/15/23027123/the-witcher-3-next-gen-update-cd-projekt-red-development-hell)<!-- TECH:END -->
+ - [DuckDuckGo seems to have completely removed the search results for YouTube-dl and many popular pirates sites including The Pirate Bay and 1337x.to &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/220415/p15#a220415p15)
+ - [No More Heroes 3 is coming to PC, PlayStation, and Xbox in fall 2022](https://www.theverge.com/2022/4/15/23027318/no-more-heroes-3-pc-playstation-5-xbox-series-x-s-consoles-fall-2022)
+ - [A look at independent investigators, like @zachxbt and YouTuber @coffeebreak_YT, who are uncovering crypto and Web3 scams, often using pseudonymous identities &lpar;Lorenzo Franceschi-Bicchierai/VICE&rpar;](http://www.techmeme.com/220415/p14#a220415p14)<!-- TECH:END -->
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
