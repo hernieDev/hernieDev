@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/hernieDev/testing4/pull/1) in [hernieDev/testing4](https://github.com/hernieDev/testing4)
+2. 💪 Opened PR [#2](https://github.com/hernieDev/testing3/pull/2) in [hernieDev/testing3](https://github.com/hernieDev/testing3)
+3. 💪 Opened PR [#1](https://github.com/hernieDev/testing3/pull/1) in [hernieDev/testing3](https://github.com/hernieDev/testing3)
 <!--END_SECTION:activity-->
 
 ### 📣 Game news for the hour
