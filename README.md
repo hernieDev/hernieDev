@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
-<!-- GAME:END -->
+ - [Nvidia leaked game list: The most exciting games still unannounced](https://www.pcgamer.com/nvidia-leaked-games-list-pc)
+ - [Destiny 2 Xur location and items, April 15-19](https://www.polygon.com/destiny-2-guide-walkthrough/2022/4/15/23027003/destiny-2-xur-location-items-april-15-19)
+ - [Check Out the Newest EA Play Member Rewards for Xbox Game Pass Ultimate Members](https://news.xbox.com/en-us/2022/04/15/new-ea-play-member-rewards-for-xbox-game-pass-ultimate/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
