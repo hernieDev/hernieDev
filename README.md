@@ -11,5 +11,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+### 📣 Game news for the hour
+
+<!-- GAME:START -->
+<!-- GAME:END -->
+
+### 📣 Tech news for the hour
+
+<!-- TECH:START -->
+<!-- TECH:END -->
+### 📣 Memes of the hour
+
+<!-- MEMES:START -->
+<!-- MEMES:END -->
