@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DuckDuckGo seems to have completely removed the search results for YouTube-dl and many popular pirates sites including The Pirate Bay and 1337x.to &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/220415/p15#a220415p15)
- - [No More Heroes 3 is coming to PC, PlayStation, and Xbox in fall 2022](https://www.theverge.com/2022/4/15/23027318/no-more-heroes-3-pc-playstation-5-xbox-series-x-s-consoles-fall-2022)
- - [A look at independent investigators, like @zachxbt and YouTuber @coffeebreak_YT, who are uncovering crypto and Web3 scams, often using pseudonymous identities &lpar;Lorenzo Franceschi-Bicchierai/VICE&rpar;](http://www.techmeme.com/220415/p14#a220415p14)<!-- TECH:END -->
+ - [Jackson Hewitt Review 2022: Flat-Fee Online Tax Software for All     - CNET](https://www.cnet.com/personal-finance/taxes/jackson-hewitt-review-2022-flat-fee-online-tax-software-for-all/#ftag=CAD590a51e)
+ - [Lost Wildflower Named &#39;Extinctus&#39; Rediscovered, Still Endangered     - CNET](https://www.cnet.com/science/biology/lost-wildflower-named-extinctus-rediscovered-still-endangered/#ftag=CAD590a51e)
+ - [Best Smart Home Deals: Save $50 on Echo Show 8 and Nest Thermostat, $14 on Lifx Bulbs and More     - CNET](https://www.cnet.com/home/smart-home/best-smart-home-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
