@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Poison pill&#39; plan in place to counter Elon Musk&#39;s bid to buy Twitter](https://appleinsider.com/articles/22/04/15/poison-pill-plan-in-place-to-counter-elon-musks-bid-to-buy-twitter?utm_medium=rss)
- - [Sony Xperia 1 IV: Everything we know and what we want to see](https://www.androidauthority.com/sony-xperia-1-iv-3152665/)
- - [&#39;Secrets of Dumbledore&#39; Isn&#39;t on HBO Max, but Here&#39;s When to Expect It     - CNET](https://www.cnet.com/tech/services-and-software/secrets-of-dumbledore-isnt-on-hbo-max-but-heres-when-to-expect-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Pixel Watch puzzle pieces are falling into place](https://www.theverge.com/2022/4/15/23026915/pixel-watch-wear-os-wearables-smartwatch)
+ - [Best Internet Providers in Brooklyn     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-brooklyn/#ftag=CAD590a51e)
+ - [The Witcher 3’s next-gen update isn’t in ‘development hell,’ according to CD Projekt Red](https://www.theverge.com/2022/4/15/23027123/the-witcher-3-next-gen-update-cd-projekt-red-development-hell)<!-- TECH:END -->
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
