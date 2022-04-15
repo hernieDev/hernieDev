@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Where Hoverboard?](http://9gag.com/gag/aZrjM90)
- - 🚯 [Devils work indeed](http://9gag.com/gag/aBnGYLZ)
- - 👉 [What is the most favorite swear from your language?](http://9gag.com/gag/aQXZnz8)<!-- MEMES:END -->
+ - 🚖 [Hang on little guy, infrastructure funding is coming to Chicago](http://9gag.com/gag/a212d5d)
+ - 🚯 [What is the most favorite swear from your language?](http://9gag.com/gag/aQXZnz8)
+ - 👉 [Poor mosquito](http://9gag.com/gag/aQXZ8v2)<!-- MEMES:END -->
