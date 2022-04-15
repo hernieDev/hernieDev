@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Little Signals concepts show what ‘ambient’ notifications could look like](https://www.theverge.com/2022/4/15/23026074/google-little-signals-concept-diy-build-ambient-notifications)
- - [An interview with Senator Cynthia Lummis on advocating for the crypto industry, educating members of Congress, buying $100K+ in bitcoin and holding, and more &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220415/p12#a220415p12)
- - [Bandai Namco’s Gundam ‘metaverse’ dream mixes esports, Web3, and Gunpla](https://www.theverge.com/2022/4/15/23026813/bandai-namco-gundam-metaverse)<!-- TECH:END -->
+ - [&#39;Poison pill&#39; plan in place to counter Elon Musk&#39;s bid to buy Twitter](https://appleinsider.com/articles/22/04/15/poison-pill-plan-in-place-to-counter-elon-musks-bid-to-buy-twitter?utm_medium=rss)
+ - [Sony Xperia 1 IV: Everything we know and what we want to see](https://www.androidauthority.com/sony-xperia-1-iv-3152665/)
+ - [&#39;Secrets of Dumbledore&#39; Isn&#39;t on HBO Max, but Here&#39;s When to Expect It     - CNET](https://www.cnet.com/tech/services-and-software/secrets-of-dumbledore-isnt-on-hbo-max-but-heres-when-to-expect-it/#ftag=CAD590a51e)<!-- TECH:END -->
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
