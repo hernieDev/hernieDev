@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Ways Shanghai&#39;s Food Crisis Is Impacting Chinese Game Devs](https://kotaku.com/genshin-impact-shanghai-lockdown-covid-food-shortages-h-1848799825)
- - [Hideo Kojima shoots down Sony buyout rumor started by Hideo Kojima](https://www.pcgamer.com/hideo-kojima-shoots-down-sony-buyout-rumor-started-by-hideo-kojima)
- - [Nvidia leaked game list: The most exciting games still unannounced](https://www.pcgamer.com/nvidia-leaked-games-list-pc)<!-- GAME:END -->
+ - [I&#39;m ready for the Final Fantasy 9 Remake announcement, Square](https://www.pcgamer.com/im-ready-for-the-final-fantasy-9-remake-announcement-square)
+ - [No More Heroes 3 coming to PC, PlayStation, and Xbox this fall](https://www.polygon.com/23027274/no-more-heroes-3-port-pc-playstation-xbox-fall-2022)
+ - [Kingdom Hearts 4 Sleuthers Find Sora’s Apartment IRL, And It Ain’t Cheap](https://kotaku.com/kingdom-hearts-4-sora-tokyo-apartment-aitaikimochi-squa-1848800122)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
