@@ -35,4 +35,6 @@ Here are some ideas to get you started:
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-<!-- MEMES:END -->
+ - 🚖 [Where Hoverboard?](http://9gag.com/gag/aZrjM90)
+ - 🚯 [Devils work indeed](http://9gag.com/gag/aBnGYLZ)
+ - 👉 [What is the most favorite swear from your language?](http://9gag.com/gag/aQXZnz8)<!-- MEMES:END -->
