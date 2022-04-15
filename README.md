@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hang on little guy, infrastructure funding is coming to Chicago](http://9gag.com/gag/a212d5d)
- - 🚯 [What is the most favorite swear from your language?](http://9gag.com/gag/aQXZnz8)
- - 👉 [Poor mosquito](http://9gag.com/gag/aQXZ8v2)<!-- MEMES:END -->
+ - 🚖 [Poor mosquito](http://9gag.com/gag/aQXZ8v2)
+ - 🚯 [Unlike the wet wipes now...](http://9gag.com/gag/angEy4B)
+ - 👉 [Hang on little guy, infrastructure funding is coming to Chicago](http://9gag.com/gag/a212d5d)<!-- MEMES:END -->
