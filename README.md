@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Go read this deep dive into the changes coming to Android 13](https://www.theverge.com/2022/4/15/23027396/android-13-developer-preview-deep-dive-changes-go-read-this)
- - [Samsung’s Galaxy Chromebook 2 360 offers a high-resolution screen for under $500](https://www.theverge.com/2022/4/15/23027218/samsung-galaxy-chromebook-2-360-chrome-os)
- - [TaxAct Review 2022: Discount Online Tax Software and Deduction Maximizer     - CNET](https://www.cnet.com/personal-finance/taxes/taxact-review-2022-discount-online-tax-software-and-deduction-maximizer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You might see an ad after you finish today’s Wordle](https://www.theverge.com/2022/4/15/23027502/wordle-spelling-bee-ad-finish-puzzle)
+ - [Apple’s still not catching scammy apps, and this time they’re on the Mac](https://www.theverge.com/2022/4/15/23027363/apple-scammy-apps-mac-app-store-moderation)
+ - [This FF7 Buster Sword clock prevents you from casting snooze](https://www.theverge.com/tldr/2022/4/15/23027432/final-fantasy-vii-7-remake-buster-sword-digital-alarm-clock)<!-- TECH:END -->
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
