@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mail thief](http://9gag.com/gag/aYrqe62)
- - 🚯 [No words](http://9gag.com/gag/ajgZX0G)
- - 👉 [Hang on little guy, infrastructure funding is coming to Chicago](http://9gag.com/gag/a212d5d)<!-- MEMES:END -->
+ - 🚖 [West b\u00e4d.](http://9gag.com/gag/aegmYoB)
+ - 🚯 [The cart is a snitch](http://9gag.com/gag/a912Y2W)
+ - 👉 [Simple as that \ud83d\ude05](http://9gag.com/gag/a912WDo)<!-- MEMES:END -->
